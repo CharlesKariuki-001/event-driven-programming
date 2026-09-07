@@ -1,0 +1,18 @@
+# Microsoft Office temporary files
+~$*
+~$*.docx
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
